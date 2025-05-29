@@ -3,7 +3,7 @@ import os
 from openai import OpenAI
 # to export chatgpt's output to PDF:
 from markdown import markdown
-# from weasyprint import HTML        # <---- comment out while testing locally
+from weasyprint import HTML        # comment out while testing locally
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -158,17 +158,16 @@ def export_resume(new_resume):
     Returns:
         str: A message indicating success or failure of the PDF export
     """
-    return "PDF export temporarily disabled during testing on Windows."  # <---- remove after testing on localhost and enable code below
-    # try:
-    #     # save as PDF
-    #     output_pdf_file = "resumes/resume_new.pdf"
+    try:
+        # save as PDF
+        output_pdf_file = "resumes/resume_new.pdf"
         
-    #     # Convert Markdown to HTML
-    #     html_content = markdown(new_resume)
+        # Convert Markdown to HTML
+        html_content = markdown(new_resume)
         
-    #     # Convert HTML to PDF and save
-    #     HTML(string=html_content).write_pdf(output_pdf_file, stylesheets=['resumes/style.css'])
+        # Convert HTML to PDF and save
+        HTML(string=html_content).write_pdf(output_pdf_file, stylesheets=['resumes/style.css'])
 
-    #     return f"Successfully exported resume to {output_pdf_file} 🎉"
-    # except Exception as e:
-    #     return f"Failed to export resume: {str(e)} 💔"
+        return f"Successfully exported resume to {output_pdf_file} 🎉"
+    except Exception as e:
+        return f"Failed to export resume: {str(e)} 💔"
