@@ -3,18 +3,11 @@ openai
 python-dotenv
 markdown
 weasyprint
-
-
-
-# for app_new.py
 streamlit 
 python-docx 
 streamlit-tags 
 yPDF2 
 openai
-
 python-dotenv
 markdown
-
-spacy # app_new2
-python -m spacy download en_core_web_sm
+spacy  
