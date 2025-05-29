@@ -1,0 +1,116 @@
+/*body {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 12px;
+    margin: 1in;
+  }
+  h1, h2, h3 {
+    color: #2c3e50;
+  }
+  ul {
+    padding-left: 20px;
+  }
+  */
+  
+
+
+  /*st.markdown("""
+  <style>
+  */
+
+  /* GLOBAL SETTINGS */
+  body {
+      font-family: 'Source Sans Pro', sans-serif;
+      color: #000000;
+      background-color: white;
+  }
+  
+  h1, h2, h3, h4 {
+      font-weight: 600;
+      margin-bottom: 0;
+      margin-top: 1.5rem;
+  }
+  
+  hr {
+      border: none;
+      border-top: 1.5px solid #000;
+      margin: 0.5rem 0 1rem;
+  }
+  
+  /* HEADER */
+  .resume-header {
+      text-align: center;
+      font-size: 28px;
+      font-variant: small-caps;
+      font-weight: bold;
+  }
+  
+  .resume-contact {
+      text-align: center;
+      font-size: 14px;
+      margin-top: 0.2rem;
+  }
+  
+  /* SECTION TITLES */
+  .section-title {
+      text-transform: uppercase;
+      font-size: 18px;
+      font-weight: bold;
+      border-bottom: 1px solid #000;
+      padding-bottom: 2px;
+      margin-top: 1.5rem;
+      margin-bottom: 0.8rem;
+  }
+  
+  /* SUBHEADINGS (Education, Experience, etc.) */
+  .subheading-container {
+      display: flex;
+      justify-content: space-between;
+      font-weight: bold;
+      margin-bottom: 2px;
+  }
+  
+  .subheading-location {
+      font-style: italic;
+      font-size: 13px;
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 5px;
+  }
+  
+  /* BULLET POINTS */
+  ul.resume-list {
+      list-style-type: disc;
+      margin-left: 1.2rem;
+      margin-bottom: 1rem;
+      font-size: 14px;
+  }
+  
+  ul.resume-list li {
+      margin-bottom: 4px;
+  }
+  
+  /* SKILLS SECTION */
+  .skills-list {
+      font-size: 14px;
+      margin-top: 10px;
+      line-height: 1.6;
+  }
+  
+  .skills-list b {
+      font-weight: 600;
+  }
+  
+  /* PROJECT HEADINGS */
+  .project-heading {
+      display: flex;
+      justify-content: space-between;
+      font-size: 14px;
+      font-weight: bold;
+      margin-bottom: 3px;
+  }
+  
+  /*
+  </style>
+  """, unsafe_allow_html=True)
+  */
+  
