@@ -12,6 +12,14 @@ import os
 import PyPDF2
 from collections import Counter
 import spacy
+from spacy.cli import download
+
+# Automatically download the model if not present
+try:
+    nlp = spacy.load("en_core_web_sm")
+except OSError:
+    download("en_core_web_sm")
+    nlp = spacy.load("en_core_web_sm")
 
 # Load English language model for NLP
 nlp = spacy.load("en_core_web_sm")
