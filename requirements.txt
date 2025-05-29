@@ -6,7 +6,7 @@ weasyprint
 streamlit 
 python-docx 
 streamlit-tags 
-yPDF2 
+PyPDF2 
 openai
 python-dotenv
 markdown
