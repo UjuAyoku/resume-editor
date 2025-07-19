@@ -7,4 +7,4 @@ Job seekers often submit generic resumes that fail to align with the specific re
 Resume Optimizer is an AI-powered web application that edits and optimizes resumes based on the job description. It leverages Large Language Models (LLMs) to compare the job listing and the user’s resume, and provides an improved and optimized resume with recommendations that align with keywords in the job posting.
 
 ## Demo
-Try the App: [Resume Optimizer](https://resumeoptimizerpro.streamlit.app/)
+Try it: [Resume Optimizer](https://resumeoptimizerpro.streamlit.app/)
