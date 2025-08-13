@@ -10,12 +10,11 @@
 
 ## Table of Contents
 1. [Why Resume Optimization Matters](#challenge)
-2. [Our Solution](#solution)
-3. [Features](#features)
-4. [How It Works](#how-it-works)
-5. [Key Technologies](#technologies)
-6. [Installation](#installation)
-7. [Usage Guide](#usage)
+2. [Features](#features)
+3. [How It Works](#how-it-works)
+4. [Key Technologies](#technologies)
+5. [Installation](#installation)
+6. [Usage Guide](#usage)
 
 <a name="challenge"></a>
 ## Why Resume Optimization Matters
@@ -28,7 +27,7 @@ Job seekers often submit generic resumes that fail to align with specific job re
 **The result?** Qualified candidates get overlooked due to poor resume-job alignment, despite having relevant qualifications.
 
 <a name="solution"></a>
-## Our Solution  
+## Solution  
 
 Resume Optimizer Pro is an AI-powered web application that:
 1. **Analyzes** your resume against target job descriptions
@@ -51,7 +50,9 @@ Resume Optimizer Pro is an AI-powered web application that:
 
 
 <a name="how-it-works"></a>
-## How It Works: Choose Your Tool  
+## How It Works: 
+
+Select an option from:  
 
 ### 1. Create New Resume
 - Build a resume from scratch with guided sections
