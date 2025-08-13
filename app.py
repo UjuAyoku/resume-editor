@@ -285,7 +285,7 @@ elif tool_option == "Edit Resume":
     jd_string = st.text_area("Paste the job description you're applying for", height=200)
     
     # Edit button
-    if st.button("✨ Analyze Resume"):
+    if st.button("Analyze Resume"):
         if uploaded_file and jd_string:
             with st.spinner("Generating optimized resume..."):
                 try:
@@ -320,7 +320,7 @@ elif tool_option == "Edit Resume":
     # Display results if available
     if st.session_state.get("edit_complete", False):
         st.success("Analysis complete!")
-        st.markdown("### ✨ Tailored Resume")
+        st.markdown("### Tailored Resume")
         st.markdown(st.session_state["new_resume"])
         
         st.markdown("---")
