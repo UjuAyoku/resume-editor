@@ -51,12 +51,12 @@ Resume Optimizer Pro is an AI-powered web application that:
 
 Select an option from:  
 
-### 1. Create New Resume
+1. Create New Resume
 - Build a resume from scratch with guided sections
 - Input personal information, experience, education, and skills
 - Generate and download a professionally formatted document
 
-### 2. Edit Resume
+2. Edit Resume
 - Upload your existing resume (PDF or Word)
 - Provide the target job description
 - Receive an AI-optimized version with:
@@ -64,7 +64,7 @@ Select an option from:
   - Content restructuring
   - Improved formatting
 
-### 3. Analyze Resume
+3. Analyze Resume
 - Upload your current resume
 - Compare against a job description
 - Receive detailed feedback including:
@@ -72,7 +72,7 @@ Select an option from:
   - Suggested improvements
   - ATS compatibility score
 
-### 4. ATS Checker
+4. ATS Checker
 - Evaluate how applicant systems will parse your resume
 - Get specific recommendations for:
   - Keyword optimization
