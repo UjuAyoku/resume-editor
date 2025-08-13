@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 <div align="center">
-  <h1>Resume Optmizer Pro</h1>
+  <h1>Resume Optimizer Pro</h1>
   <h3>An AI-powered tool to create, optimize, and analyze resumes for better job opportunities.</h3>
   
   [![Live Demo](https://img.shields.io/badge/Try-Live_Demo-green)](https://resumeoptimizerpro.streamlit.app/)
@@ -80,6 +80,7 @@ Resume Optimizer Pro is an AI-powered web application that:
   - Formatting adjustments
   - Content organization
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <a name="technologies"></a>
 ## Key Technologies  
@@ -160,8 +161,7 @@ Resume Optimizer Pro is an AI-powered web application that:
 4. View compatibility score and suggestions
 ```
 
-
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
  
  
