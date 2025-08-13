@@ -78,8 +78,8 @@ Select an option from:
   - Keyword optimization
   - Formatting adjustments
   - Content organization
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <a name="technologies"></a>
 ## Key Technologies  
@@ -92,6 +92,7 @@ Select an option from:
 | NLP                | spaCy, keyword extraction  |
 | Resume text extraction| PyPDF2, python-docx |
 | Data Handling | JSON |
+
 
 <a name="installation"></a>
 ## Installation  
@@ -118,7 +119,6 @@ Select an option from:
 
 <a name="usage"></a>
 ## Usage Guide  
-
 ### Create New Resume
 ```python
 1. Select "Create New Resume" from the sidebar
@@ -159,7 +159,6 @@ Select an option from:
 3. Provide job description
 4. View compatibility score and suggestions
 ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
  
