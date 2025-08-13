@@ -27,13 +27,13 @@ Job seekers often submit generic resumes that fail to align with specific job re
 **The result?** Qualified candidates get overlooked due to poor resume-job alignment, despite having relevant qualifications.
 
 Resume Optimizer Pro is an AI-powered web application that:
-1. **Analyzes** your resume against target job descriptions
-2. **Identifies** gaps and optimization opportunities
-3. **Generates** tailored improvements with:
+1. Analyzes your resume against target job descriptions
+2. Identifies gaps and optimization opportunities
+3. Generates tailored improvements with:
    - Keyword optimization for ATS
    - Skills alignment
    - Actionable formatting suggestions
-4. **Provides** an optimized resume ready for submission
+4. Provides an optimized resume ready for submission
 
 <a name="features"></a>
 ## Key Features
