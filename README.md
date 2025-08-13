@@ -8,6 +8,16 @@
 
 </div>
 
+## Table of Contents
+1. [Why Resume Optimization Matters](#challenge)
+2. [Our Solution](#solution)
+3. [Features](#features)
+4. [How It Works](#how-it-works)
+5. [Key Technologies](#technologies)
+6. [Installation](#installation)
+7. [Usage Guide](#usage)
+
+<a name="challenge"></a>
 ## Why Resume Optimization Matters
 
 Job seekers often submit generic resumes that fail to align with specific job requirements. Applicant Tracking Systems (ATS) and recruiters prioritize resumes that match:
@@ -17,6 +27,7 @@ Job seekers often submit generic resumes that fail to align with specific job re
 
 **The result?** Qualified candidates get overlooked due to poor resume-job alignment, despite having relevant qualifications.
 
+<a name="solution"></a>
 ## Our Solution  
 
 Resume Optimizer Pro is an AI-powered web application that:
@@ -28,6 +39,7 @@ Resume Optimizer Pro is an AI-powered web application that:
    - Actionable formatting suggestions
 4. **Provides** an optimized resume ready for submission
 
+<a name="features"></a>
 ## Features  
 
 - **Create New Resume**: Build professional resumes from scratch with guided sections
@@ -37,7 +49,8 @@ Resume Optimizer Pro is an AI-powered web application that:
 - **Keyword Optimization**: Identify and incorporate important keywords from job descriptions
 - **Formatting Recommendations**: Ensure your resume follows best practices
 
-# How It Works: Choose Your Tool  
+<a name="how-it-works"></a>
+## How It Works: Choose Your Tool  
 
 ### 1. Create New Resume
 - Build a resume from scratch with guided sections
@@ -67,15 +80,21 @@ Resume Optimizer Pro is an AI-powered web application that:
   - Formatting adjustments
   - Content organization
 
+
+<a name="technologies"></a>
 ## Key Technologies  
 
-- **Python** for backend processing
-- **Streamlit** for the web interface
-- **OpenAI API** for AI-powered resume optimization
-- **NLP techniques** for keyword extraction and analysis
-- **PyPDF2/Docx** for resume text extraction
+| Component          | Technology |
+|--------------------|------------|
+| Frontend           | Streamlit  |
+| Backend            | Python     |
+| AI Processing      | OpenAI API  GPT models|
+| NLP                | spaCy, keyword extraction  |
+| Resume text extraction| PyPDF2, python-docx |
+| Data Handling | JSON |
 
-## Installation ⚙️
+<a name="installation"></a>
+## Installation  
 
 1. Clone the repository:
    ```bash
@@ -97,6 +116,7 @@ Resume Optimizer Pro is an AI-powered web application that:
    streamlit run app.py
    ```
 
+<a name="usage"></a>
 ## Usage Guide  
 
 ### Create New Resume
@@ -140,16 +160,7 @@ Resume Optimizer Pro is an AI-powered web application that:
 4. View compatibility score and suggestions
 ```
 
-## Technology Stack  
 
-| Component          | Technology |
-|--------------------|------------|
-| Frontend           | Streamlit  |
-| Backend            | Python     |
-| AI Processing      | OpenAI API  GPT models|
-| NLP                | spaCy, keyword extraction  |
-| Document Processing| PyPDF2, python-docx |
-| Data Handling | JSON |
 
 
  
