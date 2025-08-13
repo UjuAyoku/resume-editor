@@ -26,9 +26,6 @@ Job seekers often submit generic resumes that fail to align with specific job re
 
 **The result?** Qualified candidates get overlooked due to poor resume-job alignment, despite having relevant qualifications.
 
-<a name="solution"></a>
-## Solution  
-
 Resume Optimizer Pro is an AI-powered web application that:
 1. **Analyzes** your resume against target job descriptions
 2. **Identifies** gaps and optimization opportunities
