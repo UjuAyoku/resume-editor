@@ -36,7 +36,7 @@ Resume Optimizer Pro is an AI-powered web application that:
 4. Provides an optimized resume ready for submission
 
 <a name="features"></a>
-## Key Features
+## Features
 
 | Tool              | Highlights |
 |-------------------|------------|
